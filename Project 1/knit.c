@@ -4,7 +4,7 @@
     Description/Purpose: This program asks the user for the number of balls of yarn they have and how many yards are in each ball. It then calculates how many hats and sweaters the user can make.
 */
 
-// Include our library
+// Include our standard library
 #include <stdio.h>
 
 // The main method wow!
