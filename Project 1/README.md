@@ -1,1 +1,1 @@
-Score Recieved: 50/50
+Score Recieved: <b>50/50</b>
