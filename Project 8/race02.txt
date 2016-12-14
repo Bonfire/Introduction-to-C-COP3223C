@@ -1,0 +1,25 @@
+25.5  35.75  21
+7
+INDV Emily 30 5 10
+INDV Karla 27 10 25.6
+INDV Martin 45 5 33.75
+TEAM OATS 5
+Maria 22 5 15.62
+Caleb 41 10 20.5
+Michael 30 42 18.75
+Lily 33 10 31.15
+Charlotte 29 5 25.8
+INDV Lucas 23 42 100
+INDV Hayley 34 42 27.43
+TEAM RAINBOW 3
+Lawrence 56 5 33.75
+David 55 5 33.75
+Josie 60 5 33.75
+7
+George 50 10 90.3
+Evelyn 47 5 15.4
+Linus 55 10 22.8
+Charlie 40 42 150.75
+Lucy 24 10 14.89
+Leah 42 5 23.45
+Thomas 29 5 10.6
