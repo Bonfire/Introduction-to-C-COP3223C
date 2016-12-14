@@ -8,3 +8,4 @@ UNIVERSITY: University of Central Florida
 TERM: Fall of 2016
 
 All source files are written using the C programming language as taught in class.
+I only take credit for the source code provided, all projects and other files are property of their rightful owners.
