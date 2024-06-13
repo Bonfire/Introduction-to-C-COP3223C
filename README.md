@@ -10,4 +10,4 @@ Project instructions are provided in .docx and .pdf through Program#.docx and Pr
 
 * Thank you to [@Amoz3](https://github.com/Amoz3) for sponsoring this project
 * Thank you to [@GBerghoff](https://github.com/GBerghoff) for sponsoring this project
-
+* Thank you to [@weweeam](https://github.com/weweeam) for sponsoring this project
